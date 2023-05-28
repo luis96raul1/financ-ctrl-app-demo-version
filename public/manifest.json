@@ -1,0 +1,16 @@
+{
+  "name": "My financ App",
+  "short_name": "My financ PWA",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "splash_pages": null,
+  "icons": [
+    {
+      "src": "icons/google.png",
+      "sizes": "72*72",
+      "type": "image/png"
+    }
+  ]
+}
